@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\bin\Debug\net6.0\Task6.exe
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\bin\Debug\net6.0\Task6.deps.json
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\bin\Debug\net6.0\Task6.runtimeconfig.json
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\bin\Debug\net6.0\Task6.dll
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\bin\Debug\net6.0\Task6.pdb
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.AssemblyInfo.cs
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.dll
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\refint\Task6.dll
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.pdb
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\Task6.genruntimeconfig.cache
+C:\Users\PC\Desktop\GB обучение\С#\HW1_20230420\Task6\obj\Debug\net6.0\ref\Task6.dll
