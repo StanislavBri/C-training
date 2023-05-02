@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.AssemblyInfo.cs
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\bin\Debug\net6.0\Example5_if_else.exe
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\bin\Debug\net6.0\Example5_if_else.deps.json
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\bin\Debug\net6.0\Example5_if_else.runtimeconfig.json
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\bin\Debug\net6.0\Example5_if_else.dll
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\bin\Debug\net6.0\Example5_if_else.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.dll
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\refint\Example5_if_else.dll
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\Example5_if_else.genruntimeconfig.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example5_if_else\obj\Debug\net6.0\ref\Example5_if_else.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\bin\Debug\net6.0\Example6_base.exe
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\bin\Debug\net6.0\Example6_base.deps.json
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\bin\Debug\net6.0\Example6_base.runtimeconfig.json
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\bin\Debug\net6.0\Example6_base.dll
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\bin\Debug\net6.0\Example6_base.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.AssemblyInfo.cs
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.dll
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\refint\Example6_base.dll
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\Example6_base.genruntimeconfig.cache
+C:\Users\PC\Desktop\GB обучение\С#\Example6_base\obj\Debug\net6.0\ref\Example6_base.dll

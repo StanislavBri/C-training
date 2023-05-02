@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\bin\Debug\net6.0\Sem1_20230420.exe
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\bin\Debug\net6.0\Sem1_20230420.deps.json
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\bin\Debug\net6.0\Sem1_20230420.runtimeconfig.json
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\bin\Debug\net6.0\Sem1_20230420.dll
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\bin\Debug\net6.0\Sem1_20230420.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.AssemblyInfo.cs
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.dll
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\refint\Sem1_20230420.dll
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\Sem1_20230420.genruntimeconfig.cache
+C:\Users\PC\Desktop\GB обучение\С#\Sem1_20230420\obj\Debug\net6.0\ref\Sem1_20230420.dll

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\bin\Debug\net6.0\Sem2.exe
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\bin\Debug\net6.0\Sem2.deps.json
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\bin\Debug\net6.0\Sem2.runtimeconfig.json
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\bin\Debug\net6.0\Sem2.dll
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\bin\Debug\net6.0\Sem2.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.AssemblyInfo.cs
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.dll
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\refint\Sem2.dll
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\Sem2.genruntimeconfig.cache
+C:\Users\PC\Desktop\GB обучение\С#\Seminars\Sem2\obj\Debug\net6.0\ref\Sem2.dll
