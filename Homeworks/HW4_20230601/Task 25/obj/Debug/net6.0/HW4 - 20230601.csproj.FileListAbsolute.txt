@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.AssemblyInfo.cs
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\bin\Debug\net6.0\HW4 - 20230601.exe
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\bin\Debug\net6.0\HW4 - 20230601.deps.json
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\bin\Debug\net6.0\HW4 - 20230601.runtimeconfig.json
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\bin\Debug\net6.0\HW4 - 20230601.dll
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\bin\Debug\net6.0\HW4 - 20230601.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.dll
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\refint\HW4 - 20230601.dll
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.pdb
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\HW4 - 20230601.genruntimeconfig.cache
+C:\Users\PC\Desktop\GB обучение\С#\Homeworks\HW4 - 20230601\obj\Debug\net6.0\ref\HW4 - 20230601.dll
